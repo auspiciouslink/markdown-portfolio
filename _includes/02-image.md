@@ -1,1 +1,1 @@
-! [Link's left eye. The iris is in color, but the rest of the image is in black and white.] (https://auspiciouslink.github.com/ (https://github.com/auspiciouslink/markdown-portfolio/raw/master/Link-Rectangle-Color-Eyes-Smaller-150x150.jpg)
+! [Link's left eye. The iris is in color, but the rest of the image is in black and white.] (https://github.com/auspiciouslink/markdown-portfolio/raw/master/Link-Rectangle-Color-Eyes-Smaller-150x150.jpg)
