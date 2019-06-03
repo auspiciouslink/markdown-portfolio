@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Link's left eye. The iris is in color, but the rest of the image is in black and white.](https://github.com/auspiciouslink/markdown-portfolio/raw/master/Link-Rectangle-Color-Eyes-Smaller-150x150.jpg)

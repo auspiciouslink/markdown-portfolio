@@ -1,1 +1,1 @@
-Replace this with your name, and include a header.
+# Auspicious Link - Learner of Everything, Teacher of Most of It
